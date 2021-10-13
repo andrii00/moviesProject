@@ -1,0 +1,15 @@
+.hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(2, 148, 224), rgba(0, 0, 0, 0));
+}
+
+.img {
+    width: 300px;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+.d-flex{
+    display: flex;
+}
